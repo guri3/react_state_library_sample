@@ -1,0 +1,17 @@
+name: react_state_library_sample
+version: 0.1.0
+
+authors:
+  - guri3 <aloesquash.lock@gmail.com>
+
+targets:
+  react_state_library_sample:
+    main: main.cr
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
+crystal: 0.31.1
+
+license: MIT
